@@ -1,0 +1,74 @@
+*{
+  margin: 0;
+}
+
+.block {
+  position: relative;
+  width: 400px; height: 400px;
+  background: #545953; 
+
+}
+
+.one{
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 100px; height: 100px;
+ background: #8882d9; 
+}
+.two{
+ position: absolute;
+ top: 0;
+ left: 150px;
+ width: 100px; height: 100px;
+ background: #418c7d; 
+}
+.three{
+ position: absolute;
+ top: 0;
+ right: 0;
+ width: 100px; height: 100px;
+ background: #ed51b9; 
+}
+.four{
+ position: absolute;
+ top: 150px;
+ left: 0;
+ width: 100px; height: 100px;
+ background: #f50f0f; 
+}
+.five{
+ position: absolute;
+ top: 150px;
+ left: 150px;
+ width: 100px; height: 100px;
+ background: #fabb28; 
+}
+.six{
+ position: absolute;
+ top: 150px;
+ right: 0;
+ width: 100px; height: 100px;
+ background: #c20aa6; 
+}
+.seven{
+ position: absolute;
+ bottom: 0;
+ left: 0;
+ width: 100px; height: 100px;
+ background: #2dba20; 
+}
+.eight{
+ position: absolute;
+ bottom: 0;
+ left: 150px;
+ width: 100px; height: 100px;
+ background: #f0fa39; 
+}
+.nine{
+ position: absolute;
+ bottom: 0;
+ right: 0;
+ width: 100px; height: 100px;
+ background: #8882d9; 
+}
